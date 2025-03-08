@@ -1,0 +1,51 @@
+Morningの過ごし方
+
+- ２０分Coding
+	Python
+- Reading aloud 15 
+
+
+
+
+Pending
+
+- AWS SAA
+- 基本
+- AI 
+
+
+
+Feedback 
+	score points.
+
+这个棋子的旁边不能放弃他同样的棋子，
+
+这个tile不能挨着其他同样的tile
+
+这个tile只能直线放 如果有同种tile不在一条直线上不算分
+	This tile can only be placed in a straight line. 
+	 If tiles of the same type are not aligned in a straight line, they do not score points.
+这个种类的tile要接续两个同种的，然后不被其他种类的tile包围才算分
+	This type of tile must connect to at least two others of the same type and must not be completely surrounded by different types of tiles to score points.
+
+
+
+今週の予定
+- Franch 
+- Teach Japanese 
+- Run 10 KM
+
+
+三連休
+
+
+What does this token do?
+
+
+楽天証券のNISA（少額投資非課税制度）は、日本政府が設けた投資の利益が非課税になる制度です。通常、株や投資信託で得た利益には約20%の税金がかかりますが、NISA口座を利用すると一定の条件のもと非課税になります。
+
+楽天証券で利用できるNISAの種類
+新NISA（2024年から）
+つみたて投資枠（積立専用）：年間120万円まで非課税（非課税期間無期限）
+成長投資枠（株式投資もOK）：年間240万円まで非課税（非課税期間無期限）
+生涯投資枠：総額1,800万円まで利用可能（うち成長投資枠は1,200万円まで）

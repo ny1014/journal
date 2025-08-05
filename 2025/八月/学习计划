@@ -1,0 +1,42 @@
+学习计划
+
+
+AI
+
+
+1月  AI基础 + 工具熟悉
+	能清楚解释AI/ML/DL区别，用ChatGPT做任务
+
+	监督学习 vs 非监督学习、分类与回归的概念
+	🛠️ 工具：Google Colab 初体验（无代码/低代码）
+
+2月
+	在Kaggle完成1个分类模型小练习
+
+4-5月 LLM应用 
+	搭建一个简单的AI应用
+
+
+	Python 基础（变量、函数、循环）复习 + Numpy/Pandas基础
+
+中级阶段
+
+	了解大语言模型（LLM）：GPT、Claude、Gemini、LLaMA 等对比
+	
+	Prompt Engineering 初级：如何让AI更好地帮你工作？
+	🔧 工具：LangChain / Flowise 简介
+
+
+	多模态AI简介：语音识别（Whisper）、图像识别（CLIP）等
+
+	微调模型 / 项目整合
+
+LangChain + RAG（向量检索问答）
+LangChain, Flowise, OpenAI API, Supabase
+LangChain + LlamaIndex + Pinecone
+Flowise（低代码构建AI系统）
+FastAPI / Streamlit / Gradio
+🔹Python + LangChain 🔹OpenAI API 🔹RAG（向量检索）
+🔹Next.js 
+🔹spaCy 🔹HuggingFace 🔹Transformers
+🔹pandas 🔹scikit-learn 🔹LightGBM 🔹Tableau
